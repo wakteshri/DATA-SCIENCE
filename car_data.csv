@@ -1,0 +1,21 @@
+car_name,year,selling_price,present_price,kms_driven,engine_cc,mileage_kmpl,fuel_type,seller_type,transmission,owner
+Maruti Swift,2018,450000,550000,35000,1197,22.0,Petrol,Dealer,Manual,0
+Hyundai i20,2017,520000,600000,42000,1197,20.0,Petrol,Dealer,Manual,0
+Honda City,2016,650000,800000,30000,1497,18.5,Petrol,Dealer,Manual,0
+Toyota Innova,2015,900000,1200000,60000,2494,12.0,Diesel,Dealer,Manual,1
+Ford EcoSport,2019,750000,950000,25000,1498,17.0,Diesel,Individual,Manual,0
+Mahindra XUV500,2014,700000,1100000,80000,2179,15.1,Diesel,Dealer,Manual,1
+Tata Nexon,2020,850000,1000000,20000,1199,21.5,Petrol,Individual,Manual,0
+Hyundai Creta,2018,950000,1200000,40000,1497,16.8,Diesel,Dealer,Automatic,0
+Kia Seltos,2021,1200000,1400000,15000,1497,17.8,Petrol,Dealer,Automatic,0
+Maruti WagonR,2016,350000,450000,50000,998,21.7,CNG,Individual,Manual,2
+Toyota Fortuner,2017,1800000,2200000,55000,2755,10.0,Diesel,Dealer,Automatic,0
+Honda Amaze,2019,600000,750000,28000,1199,19.5,Petrol,Individual,Manual,0
+Renault Kwid,2018,300000,400000,45000,799,23.0,Petrol,Dealer,Manual,1
+Skoda Rapid,2015,500000,700000,65000,1498,17.2,Diesel,Dealer,Manual,1
+Volkswagen Polo,2017,480000,650000,38000,1198,18.2,Petrol,Individual,Manual,0
+Hyundai Verna,2016,620000,850000,47000,1582,17.5,Diesel,Dealer,Manual,1
+Tata Harrier,2020,1400000,1700000,22000,1956,16.0,Diesel,Dealer,Manual,0
+MG Hector,2021,1600000,1900000,18000,1451,15.8,Petrol,Dealer,Automatic,0
+Maruti Baleno,2019,550000,700000,30000,1197,21.0,Petrol,Individual,Manual,0
+Mahindra Thar,2022,1300000,1600000,10000,2184,15.0,Diesel,Dealer,Manual,0
